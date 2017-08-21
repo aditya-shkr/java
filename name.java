@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class HelloWorld {
+public class name {
     public static void main(String args[]) {
        Scanner in=new Scanner(System.in);
 		String str1[]=new String[10];
